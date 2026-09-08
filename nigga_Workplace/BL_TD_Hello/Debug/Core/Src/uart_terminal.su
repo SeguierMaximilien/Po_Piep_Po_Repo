@@ -1,0 +1,16 @@
+../Core/Src/uart_terminal.c:22:19:UART_Terminal_Init	16	static
+../Core/Src/uart_terminal.c:40:19:UART_Terminal_Start	16	static
+../Core/Src/uart_terminal.c:62:6:UART_Terminal_Callback	16	static
+../Core/Src/uart_terminal.c:76:6:UART_Terminal_Process	8	static
+../Core/Src/uart_terminal.c:87:19:UART_Terminal_Send	24	static
+../Core/Src/uart_terminal.c:99:19:UART_Terminal_Printf	144	static
+../Core/Src/uart_terminal.c:120:6:UART_Terminal_Show_Prompt	8	static
+../Core/Src/uart_terminal.c:127:6:UART_Terminal_Register_Command_Handler	16	static
+../Core/Src/uart_terminal.c:138:6:UART_Terminal_Default_Command_Handler	32	static
+../Core/Src/uart_terminal.c:213:13:Process_Received_Data	24	static
+../Core/Src/uart_terminal.c:264:16:Is_EndOfLine	16	static
+../Core/Src/uart_terminal.c:284:13:Process_Command_Internal	64	static
+../Core/Src/uart_terminal.c:300:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/uart_terminal.c:310:6:UART_Terminal_Check_Timeout	8	static
+../Core/Src/uart_terminal.c:321:6:UART_Terminal_Timeout_Callback	16	static
+../Core/Src/uart_terminal.c:334:6:UART_Terminal_Parse_Command	32	static

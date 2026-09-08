@@ -1,0 +1,26 @@
+2026-09-08 10:32:20,428 [INFO] Activator:176 - 
+
+
+2026-09-08 10:32:20,429 [INFO] Activator:177 - !SESSION log4j initialized
+2026-09-08 10:32:20,812 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-09-08 10:32:21,024 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:32:21,028 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:32:21,030 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:32:53,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:32:55,255 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2026-09-08 10:32:55,257 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:39,944 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:39,945 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:39,946 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:40,086 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:40,087 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:46:40,088 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,406 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,407 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,407 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,463 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,464 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 10:52:58,486 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 11:01:01,569 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 11:01:01,571 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
+2026-09-08 11:01:01,573 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connexion refusée
