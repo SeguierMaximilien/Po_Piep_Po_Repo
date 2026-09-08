@@ -1,0 +1,10 @@
+11:35:44 **** Incremental Build of configuration Debug for project po_piep_po ****
+make -j20 all 
+arm-none-eabi-size  po_piep_po.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10100	     12	   1708	  11820	   2e2c	po_piep_po.elf
+Finished building: default.size.stdout
+ 
+
+11:35:44 Build Finished. 0 errors, 0 warnings. (took 65ms)
+
